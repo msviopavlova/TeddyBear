@@ -1,0 +1,20 @@
+body {
+    background-color: #9578a1;    
+}
+
+h1 {
+    padding-left: 1em;
+    margin: 1em 1em 1em 1em;
+}
+
+#lastdiv, #seconddiv {
+    margin-top: 3em;
+}
+
+#firstdiv {
+    margin-top: 3em;
+}
+
+.bear-item{
+    margin-top: 3em;
+}
